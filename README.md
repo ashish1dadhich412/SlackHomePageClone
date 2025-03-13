@@ -1,5 +1,4 @@
 # SlackHomePageClone
-# Slack Homepage Clone
 
 This project is a simple clone of the Slack homepage built using HTML and Tailwind CSS.
 
